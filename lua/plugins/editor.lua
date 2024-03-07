@@ -58,7 +58,7 @@ return {
         desc = "Help",
       },
       {
-        ";e",
+        ";d",
         function()
           local builtin = require("telescope.builtin")
           builtin.diagnostics()
