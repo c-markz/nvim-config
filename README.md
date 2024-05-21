@@ -26,3 +26,6 @@ Code
   - [ ] INSERT MODE (tab and bs tab) <C-i>,<C-w>
   - [ ] Terminal
   - [ ] Tab completion
+
+## Install
+sudo apt install ripgrep

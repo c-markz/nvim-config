@@ -2,5 +2,5 @@
 require("config.lazy")
 
 -- dap
-require("plugins.dap.javascript")
+-- require("plugins.dap.javascript")
 -- require("plugins.dap.python")
